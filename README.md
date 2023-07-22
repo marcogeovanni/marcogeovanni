@@ -1,6 +1,6 @@
 ### Oi, eu sou Geovanni! 👋
 
-![kukii GitHub stats](https://github-readme-stats.vercel.app/api?username=soykukii&show_icons=true&theme=radical)
+![Geovanni GitHub stats](https://github-readme-stats.vercel.app/api?username=marcogeovanni&show_icons=true&theme=radical)
 
 ### Minhas habilidades 🥷
 
